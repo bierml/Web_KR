@@ -1,0 +1,33 @@
+.artcl {
+	left: 25vw;
+	display:block;
+	box-sizing: border-box;
+	margin: 0 0 20px 0;
+	padding: 0;
+	border: 3px dashed #ffd500;
+	background-color: #91c977;
+	color: black;
+	width: 500px;
+	height: 150px;
+	position: relative;
+}
+div > * {
+				
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+img {
+	position: absolute;
+	box-sizing: border-box;
+	left: 0;
+	top: 0;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	width: 144px;
+	height: 144px;
+}
+.left {width: 30%; }
+.right {width: 70%; float:right;}
