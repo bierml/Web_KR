@@ -1,0 +1,24 @@
+a{
+	text-decoration:none;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+hr {
+    	border: none; 
+    	background-color: red;
+   	color: red; 
+    	height: 2px; 
+}
+.bl
+{
+	position: relative;
+	background-color: black;
+	width: 300px;
+	height: 200px;
+	color: white;
+}
+* { margin: 0; padding: 0; }
+ul { margin: 0 10px 10px 10px; padding: 10px;} 
+#left { position: absolute; left: 0; top: 0; width: 70%; }
+#right { position: absolute; right: 0; top: 0; width: 30%; }
