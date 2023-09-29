@@ -1,0 +1,26 @@
+a {
+	text-decoration:none;
+	display:inline-block;
+	font-size: 15pt;
+	padding: 10px;
+}
+a:link {
+  	color: black; 
+}
+a:visited {
+  	color: black;
+}
+a:hover {
+  	color: yellow; 
+}
+a:active {
+  	color: blue; 
+}
+b 
+{
+  	color: red;
+  	font-size: 20pt;
+}
+h2 {
+	margin: initial;
+}
