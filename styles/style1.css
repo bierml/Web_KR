@@ -1,0 +1,41 @@
+.class1 { 	
+	text-align: center; 
+	background: rgba(0, 170, 238, 0.5);
+	color: #fff;
+	padding: 0px;
+	margin: 15px 15px 0px 15px;
+	box-sizing: border-box;
+	height: 30%;
+}
+.class2 {
+	height: 60%;
+	padding: 10px;
+	margin: 0px 15px 0px 15px;
+	box-sizing: border-box;
+	background: #fff;
+}
+.class3 {
+	text-align: right; 
+	height: 10%;
+	padding: 10px;
+	margin: 0px 15px 15px 15px;
+	box-sizing: border-box;
+	background: darkblue;
+	color: #fff;
+}
+body {
+	background: url(/files/backframe.jpg);
+	background-size: cover;
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+iframe {
+	scroll-behavior: auto;
+	width: 100%;
+	height: 100%;
+    	border-width: 0px;
+    	border-style: inset;
+    	border-color: initial;
+    	border-image: initial;
+}
